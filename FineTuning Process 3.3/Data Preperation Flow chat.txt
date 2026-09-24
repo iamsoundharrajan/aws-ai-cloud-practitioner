@@ -1,0 +1,36 @@
+                 DATA
+                   │
+                   ▼
+          ┌─────────────────┐
+          │ Data Collection │
+          └────────┬────────┘
+                   ▼
+          ┌─────────────────┐
+          │ Data Curation   │
+          │ Quality/Relevant│
+          └────────┬────────┘
+                   ▼
+          ┌─────────────────┐
+          │ Data Governance │
+          │ Privacy/Security│
+          └────────┬────────┘
+                   ▼
+          ┌─────────────────┐
+          │ Data Cleaning   │
+          │ Deduplication   │
+          └────────┬────────┘
+                   ▼
+          ┌─────────────────┐
+          │ Data Labeling   │
+          └────────┬────────┘
+                   ▼
+          ┌─────────────────┐
+          │ Representative  │
+          │ & Diverse Data  │
+          └────────┬────────┘
+                   ▼
+          ┌─────────────────┐
+          │ Train / Fine-tune│
+          └────────┬────────┘
+                   ▼
+               Evaluate
