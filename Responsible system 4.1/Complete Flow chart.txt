@@ -1,0 +1,51 @@
+                         RESPONSIBLE AI
+                               │
+                               ▼
+                         SELECT MODEL
+                               │
+                 ┌─────────────┼─────────────┐
+                 ▼             ▼             ▼
+              Quality        Cost       Sustainability
+                               │
+                               ▼
+                         PREPARE DATA
+                               │
+             ┌─────────────────┼─────────────────┐
+             ▼                 ▼                 ▼
+          Inclusive          Diverse          Balanced
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               ▼
+                         TRAIN / ADAPT
+                               │
+                               ▼
+                      EVALUATE RESPONSIBLY
+                               │
+       ┌───────────────────────┼────────────────────────┐
+       ▼                       ▼                        ▼
+      Bias                  Fairness                Veracity
+       │                       │                        │
+       ▼                       ▼                        ▼
+Subgroup analysis         Human audits             Accuracy checks
+Label quality             Group comparison         Grounding
+       │                       │                        │
+       └───────────────────────┼────────────────────────┘
+                               ▼
+                            SAFETY
+                               │
+                               ▼
+                    AMAZON BEDROCK GUARDRAILS
+                               │
+                               ▼
+                            DEPLOY
+                               │
+                               ▼
+                           MONITOR
+                               │
+                ┌──────────────┼──────────────┐
+                ▼              ▼              ▼
+              Bias         Safety          Trust
+                │              │              │
+                └──────────────┼──────────────┘
+                               ▼
+                         HUMAN OVERSIGHT
