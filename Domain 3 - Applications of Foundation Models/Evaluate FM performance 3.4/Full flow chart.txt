@@ -1,0 +1,45 @@
+                         AI SYSTEM
+                            │
+                            ▼
+                   ┌────────────────┐
+                   │ Evaluate Model │
+                   └───────┬────────┘
+                           │
+          ┌────────────────┼─────────────────┐
+          ▼                ▼                 ▼
+       Human          Benchmark         Bedrock
+      Evaluation        Dataset        Evaluation
+          │                │                 │
+          └────────────────┼─────────────────┘
+                           ▼
+                     MODEL METRICS
+                           │
+        ┌──────────────────┼──────────────────┐
+        ▼                  ▼                  ▼
+      ROUGE              BLEU             BERTScore
+   Summarization      Translation       Semantic meaning
+                           │
+                           ▼
+                    LLM-as-a-Judge
+                           │
+                           ▼
+                  APPLICATION EVALUATION
+                           │
+          ┌────────────────┼─────────────────┐
+          ▼                ▼                 ▼
+         RAG             AGENT            WORKFLOW
+          │                │                 │
+    Retrieval +       Tool choice +      End-to-end
+    Grounding +       task execution      execution
+    Generation
+                           │
+                           ▼
+                  BUSINESS EVALUATION
+                           │
+          ┌────────────────┼─────────────────┐
+          ▼                ▼                 ▼
+     Task Completion   User Satisfaction   Cost/Interaction
+          │                │                 │
+          └────────────────┼─────────────────┘
+                           ▼
+                   BUSINESS OBJECTIVES

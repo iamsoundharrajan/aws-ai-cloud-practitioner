@@ -1,0 +1,91 @@
+📝 Task 4.1 Ultimate Cheat Sheet
+Responsible AI Features
+
+BIAS
+→ Systematic skew
+
+FAIRNESS
+→ Equitable outcomes
+
+INCLUSIVITY
+→ Works for diverse users
+
+ROBUSTNESS
+→ Reliable under variations
+
+SAFETY
+→ Prevent harmful behavior
+
+VERACITY
+→ Truthful / accurate output
+
+
+
+Dataset
+
+INCLUSIVE
+→ Represents intended users
+
+DIVERSE
+→ Variety of users/scenarios
+
+CURATED
+→ Selected + cleaned + reviewed
+
+BALANCED
+→ Appropriate representation across classes/groups
+
+
+
+
+Bias & Variance
+HIGH BIAS
+→ Underfitting
+→ Model too simple
+→ Poor training performance
+
+HIGH VARIANCE
+→ Overfitting
+→ Model memorizes training data
+→ Good training / poor test performance
+
+
+
+Detection
+
+LABEL QUALITY
+→ Are labels correct?
+
+HUMAN AUDIT
+→ Do experts find problems?
+
+SUBGROUP ANALYSIS
+→ Does performance differ across groups?
+
+
+
+
+GenAI Risks
+
+IP infringement
+→ Generated content may raise IP issues
+
+Bias
+→ Unfair/skewed outputs
+
+Hallucination
+→ Incorrect/unsupported information
+
+End-user risk
+→ Users may rely on harmful/incorrect output
+
+Loss of trust
+→ Bad AI experiences damage confidence
+
+
+
+AWS
+
+Amazon Bedrock Guardrails
+→ Control/filter unwanted model inputs and outputs
+→ Help enforce safety/content policies
